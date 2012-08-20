@@ -1,0 +1,3 @@
+[submodule "samples/games"]
+	path = samples/games
+	url = git://github.com/ggirou/bad-aliens-dart.git
