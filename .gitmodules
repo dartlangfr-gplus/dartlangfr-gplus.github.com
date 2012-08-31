@@ -1,3 +1,6 @@
 [submodule "bad-aliens-dart"]
 	path = samples/games/bad-aliens-dart
 	url = git://github.com/ggirou/bad-aliens-dart.git
+[submodule "samples/games/dart-playpoker"]
+	path = samples/games/dart-playpoker
+	url = git://github.com/claudiodangelis/dart-playpoker.git
